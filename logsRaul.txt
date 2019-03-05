@@ -1,0 +1,4 @@
+c8be5f6 (HEAD -> master) agrege 20 soles pa probar
+b647876 sumando 20 soles
+2dd8397 agregando 10 soles
+306cba0 (tag: 0.3, tag: 0.1) inicializar nuestro landing
